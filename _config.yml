@@ -15,8 +15,8 @@ minimal: false             # use a dark header
 
 # Menu
 
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-   - {url: "Resume.pdf", title: "Resume"} 
+navigation:                # accepts {file, title, url, icon, sidebaricon}-  
+  - {url: "Resume.pdf", title: "Resume"}
   - {file: "research.html", title: "Research"}
   #- {url: "https://drive.google.com/file/d/1dpSnS-maUJkn10cLyK3QI7tg9xJumlei/view?usp=sharing", title: "CV"} 
   - {file: "teaching.md", title: "Teaching"}
